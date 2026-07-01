@@ -1,0 +1,602 @@
+Build the complete Home Screen for the Kasthuribai Ready Mades mobile application.
+
+IMPORTANT
+
+This is ONLY the Home Screen.
+
+Do NOT implement authentication.
+
+Do NOT implement backend.
+
+Do NOT implement APIs.
+
+Do NOT implement payment.
+
+Do NOT implement cart functionality.
+
+Do NOT implement checkout.
+
+Do NOT implement business logic.
+
+For now, create an extremely premium, production-quality UI using realistic mock data.
+
+Use ONLY the Poppins font throughout the application.
+
+No other font should be used.
+
+The entire UI must follow the Kasthuribai premium branding.
+
+========================================================
+
+DESIGN GOAL
+
+========================================================
+
+I DO NOT want a normal ecommerce homepage.
+
+I want users to open the app and immediately feel like they are using a premium luxury fashion application.
+
+Take inspiration from
+
+• Apple Store
+• Zara
+• Nike
+• H&M
+• AJIO Luxe
+• Myntra (Premium Sections)
+
+Do NOT copy them.
+
+Create your own unique experience.
+
+Everything should feel smooth, premium, elegant and modern.
+
+If you have a better UX idea than my requirements,
+
+implement it.
+
+========================================================
+
+DESIGN SYSTEM
+
+========================================================
+
+Use
+
+Poppins Font everywhere
+
+Luxury spacing
+
+Large rounded cards
+
+Soft shadows
+
+Floating UI
+
+Glassmorphism where appropriate
+
+Elegant gradients
+
+Premium animations
+
+Beautiful empty spaces
+
+High-end typography hierarchy
+
+Premium image placeholders
+
+Modern iconography
+
+Framer Motion animations
+
+Micro interactions
+
+Smooth scrolling
+
+Skeleton loading placeholders
+
+========================================================
+
+COLOR PALETTE
+
+========================================================
+
+Primary
+
+Luxury Maroon
+
+Gold Accent
+
+Cream
+
+Warm White
+
+Light Beige
+
+Soft Gray
+
+Dark Text
+
+Luxury fashion feel.
+
+========================================================
+
+HOME STRUCTURE
+
+========================================================
+
+Build the home screen in this order.
+
+========================================================
+
+1.
+
+PREMIUM APP BAR
+
+========================================================
+
+Sticky app bar.
+
+Contains
+
+Kasthuribai Logo
+
+Greeting
+
+"Good Morning"
+
+Customer Name Placeholder
+
+Search Icon
+
+Wishlist
+
+Notification
+
+Shopping Bag
+
+Animated notification badge.
+
+Premium elevation while scrolling.
+
+========================================================
+
+2.
+
+HERO SECTION
+
+========================================================
+
+This should be completely unique.
+
+NOT a normal banner.
+
+Use a full-width premium animated hero.
+
+Auto sliding.
+
+Luxury transitions.
+
+Large fashion imagery.
+
+Elegant typography.
+
+Beautiful CTA buttons.
+
+Animated background elements.
+
+Floating particles.
+
+Soft gradients.
+
+Glass cards.
+
+Add subtle parallax effects.
+
+Hero should immediately communicate luxury.
+
+========================================================
+
+3.
+
+QUICK CATEGORY SHORTCUTS
+
+========================================================
+
+Beautiful circular cards.
+
+Men
+
+Women
+
+Kids
+
+Silver
+
+Festival
+
+New Arrival
+
+View All
+
+Horizontal scrolling.
+
+Animated selection.
+
+========================================================
+
+4.
+
+FEATURE HIGHLIGHTS
+
+========================================================
+
+Premium horizontal cards.
+
+Free Shipping
+
+Easy Returns
+
+Premium Quality
+
+Trusted Since
+
+Secure Payment
+
+Beautiful icons.
+
+Animated.
+
+========================================================
+
+5.
+
+TRENDING COLLECTIONS
+
+========================================================
+
+Large luxury collection cards.
+
+Large images.
+
+Beautiful overlays.
+
+Elegant typography.
+
+Smooth hover/tap animation.
+
+========================================================
+
+6.
+
+NEW ARRIVALS
+
+========================================================
+
+Premium horizontal product carousel.
+
+Luxury cards.
+
+Wishlist button.
+
+Discount badge.
+
+Rating.
+
+Price.
+
+Add to Cart.
+
+Quick View.
+
+Animated appearance.
+
+========================================================
+
+7.
+
+FESTIVAL COLLECTION
+
+========================================================
+
+Premium full-width section.
+
+Rich colors.
+
+Beautiful typography.
+
+Luxury illustrations.
+
+CTA.
+
+========================================================
+
+8.
+
+SHOP BY CATEGORY
+
+========================================================
+
+Beautiful category grid.
+
+Women
+
+Men
+
+Kids
+
+Silver
+
+Traditional
+
+Festival
+
+Each category should have
+
+Large premium image
+
+Gradient overlay
+
+Smooth animation
+
+========================================================
+
+9.
+
+BEST SELLERS
+
+========================================================
+
+Premium product carousel.
+
+Luxury cards.
+
+Large product image.
+
+Elegant price section.
+
+Animated wishlist.
+
+========================================================
+
+10.
+
+LIMITED OFFERS
+
+========================================================
+
+Premium offer cards.
+
+Countdown placeholder.
+
+Animated backgrounds.
+
+Luxury gradients.
+
+========================================================
+
+11.
+
+SHOP THE LOOK
+
+========================================================
+
+Modern fashion layout.
+
+Large editorial cards.
+
+Premium photography placeholders.
+
+Elegant CTA.
+
+========================================================
+
+12.
+
+RECENTLY VIEWED
+
+========================================================
+
+Beautiful horizontal cards.
+
+Animated.
+
+========================================================
+
+13.
+
+CUSTOMER REVIEWS
+
+========================================================
+
+Premium review cards.
+
+Large avatars.
+
+Star ratings.
+
+Smooth carousel.
+
+========================================================
+
+14.
+
+INSTAGRAM GALLERY
+
+========================================================
+
+Pinterest style.
+
+Premium fashion gallery.
+
+Animated masonry layout.
+
+========================================================
+
+15.
+
+STORE BENEFITS
+
+========================================================
+
+Beautiful cards.
+
+Fast Delivery
+
+Premium Quality
+
+Secure Payment
+
+Easy Return
+
+Customer Support
+
+Animated icons.
+
+========================================================
+
+16.
+
+NEWSLETTER
+
+========================================================
+
+Luxury CTA card.
+
+Elegant background.
+
+Beautiful typography.
+
+========================================================
+
+17.
+
+BOTTOM NAVIGATION
+
+========================================================
+
+Home
+
+Collections
+
+Wishlist
+
+Orders
+
+Profile
+
+Floating Cart Button.
+
+Animated active indicator.
+
+Premium blur effect.
+
+========================================================
+
+ANIMATIONS
+
+========================================================
+
+Every section should animate naturally.
+
+Fade
+
+Scale
+
+Slide
+
+Stagger
+
+Parallax
+
+Micro interactions
+
+Floating cards
+
+Hero transitions
+
+Skeleton loading
+
+Shared element transitions
+
+Smooth page transitions
+
+Premium scrolling
+
+Everything should feel like a native premium mobile application.
+
+========================================================
+
+COMPONENTS
+
+========================================================
+
+Create reusable components.
+
+Hero Banner
+
+Product Card
+
+Category Card
+
+Collection Card
+
+Offer Card
+
+Review Card
+
+Benefit Card
+
+Section Header
+
+Buttons
+
+Navigation
+
+Skeletons
+
+Loading Components
+
+Everything reusable.
+
+========================================================
+
+RESPONSIVE
+
+========================================================
+
+Perfect on
+
+Android
+
+iPhone
+
+Small Screens
+
+Large Screens
+
+Safe Areas
+
+Dynamic Island
+
+Notches
+
+========================================================
+
+IMPORTANT
+
+========================================================
+
+Do NOT create a basic ecommerce homepage.
+
+Do NOT copy the website.
+
+Reimagine the experience specifically for mobile.
+
+Think like a Senior Product Designer.
+
+Create a premium home experience that is better than most fashion shopping apps.
+
+If you believe a section should be redesigned or improved, use your own creativity and implement a better solution.
+
+The final result should look polished enough to be featured on the App Store.

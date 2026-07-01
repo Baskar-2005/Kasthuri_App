@@ -1,6 +1,6 @@
-# [Project name]
+# Kasthuribai Ready Mades
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+Premium Indian ethnic fashion mobile app — UI-only Expo React Native application with luxury branding.
 
 ## Run & Operate
 

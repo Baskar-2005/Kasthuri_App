@@ -24,3 +24,27 @@ id = "BzCH8I4Vbzow1icSL5SsL"
 uri = "file://artifacts/mobile/assets/images/banner3.png"
 type = "image"
 title = "new_arrivals_banner"
+
+[[generated]]
+id = "d0Ost3z2S253w6DQ2ANAI"
+uri = "file://artifacts/mobile/assets/images/cat_women.png"
+type = "image"
+title = "womens_category"
+
+[[generated]]
+id = "IEWvM6un5e2VuxlM-HKfh"
+uri = "file://artifacts/mobile/assets/images/cat_men.png"
+type = "image"
+title = "mens_category"
+
+[[generated]]
+id = "Ldt7kB6BJ5UBa_7iG6o9w"
+uri = "file://artifacts/mobile/assets/images/cat_festival.png"
+type = "image"
+title = "festival_category"
+
+[[generated]]
+id = "oYsml6bKPu-7eWhogtugj"
+uri = "file://artifacts/mobile/assets/images/cat_silver.png"
+type = "image"
+title = "silver_category"

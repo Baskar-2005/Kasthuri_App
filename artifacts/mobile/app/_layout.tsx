@@ -1,10 +1,13 @@
 import {
-  Inter_400Regular,
-  Inter_500Medium,
-  Inter_600SemiBold,
-  Inter_700Bold,
+  Poppins_300Light,
+  Poppins_400Regular,
+  Poppins_500Medium,
+  Poppins_600SemiBold,
+  Poppins_700Bold,
+  Poppins_800ExtraBold,
+  Poppins_900Black,
   useFonts,
-} from "@expo-google-fonts/inter";
+} from "@expo-google-fonts/poppins";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Stack } from "expo-router";
 import * as SplashScreen from "expo-splash-screen";
@@ -23,44 +26,26 @@ function RootLayoutNav() {
   return (
     <Stack screenOptions={{ headerBackTitle: "Back", headerTintColor: "#6B1A1A" }}>
       <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-      <Stack.Screen
-        name="product/[id]"
-        options={{ headerShown: false, presentation: "card" }}
-      />
-      <Stack.Screen
-        name="search"
-        options={{ headerShown: false, presentation: "modal" }}
-      />
-      <Stack.Screen
-        name="cart"
-        options={{ headerShown: false, presentation: "card" }}
-      />
-      <Stack.Screen
-        name="checkout"
-        options={{ headerShown: false, presentation: "card" }}
-      />
-      <Stack.Screen
-        name="notifications"
-        options={{ headerShown: false, presentation: "card" }}
-      />
-      <Stack.Screen
-        name="settings"
-        options={{ headerShown: false, presentation: "card" }}
-      />
-      <Stack.Screen
-        name="category/[id]"
-        options={{ headerShown: false, presentation: "card" }}
-      />
+      <Stack.Screen name="product/[id]" options={{ headerShown: false, presentation: "card" }} />
+      <Stack.Screen name="search" options={{ headerShown: false, presentation: "modal" }} />
+      <Stack.Screen name="cart" options={{ headerShown: false, presentation: "card" }} />
+      <Stack.Screen name="checkout" options={{ headerShown: false, presentation: "card" }} />
+      <Stack.Screen name="notifications" options={{ headerShown: false, presentation: "card" }} />
+      <Stack.Screen name="settings" options={{ headerShown: false, presentation: "card" }} />
+      <Stack.Screen name="category/[id]" options={{ headerShown: false, presentation: "card" }} />
     </Stack>
   );
 }
 
 export default function RootLayout() {
   const [fontsLoaded, fontError] = useFonts({
-    Inter_400Regular,
-    Inter_500Medium,
-    Inter_600SemiBold,
-    Inter_700Bold,
+    Poppins_300Light,
+    Poppins_400Regular,
+    Poppins_500Medium,
+    Poppins_600SemiBold,
+    Poppins_700Bold,
+    Poppins_800ExtraBold,
+    Poppins_900Black,
   });
 
   useEffect(() => {
