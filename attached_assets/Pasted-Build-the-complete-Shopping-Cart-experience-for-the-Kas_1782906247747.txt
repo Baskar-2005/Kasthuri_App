@@ -1,0 +1,454 @@
+Build the complete Shopping Cart experience for the Kasthuribai Ready Mades mobile application.
+
+IMPORTANT
+
+This is ONLY Phase 7.
+
+Do NOT implement payment gateway.
+
+Do NOT implement checkout APIs.
+
+Do NOT implement backend.
+
+Do NOT implement authentication.
+
+Use realistic mock data.
+
+Use ONLY the Poppins font throughout the application.
+
+The Shopping Cart should feel luxurious, premium, elegant and conversion-focused.
+
+Take inspiration from
+
+• Apple Store
+• Nike
+• Zara
+• AJIO Luxe
+• Myntra
+• H&M
+
+Do NOT copy them.
+
+Create your own premium shopping bag experience.
+
+If you have better UX ideas than my requirements, implement them automatically.
+
+====================================================
+
+DESIGN GOAL
+
+====================================================
+
+I do NOT want a traditional cart page.
+
+I want users to feel confident about purchasing.
+
+Every interaction should be smooth.
+
+The experience should encourage checkout.
+
+====================================================
+
+APP BAR
+
+====================================================
+
+Sticky App Bar
+
+Back Button
+
+Shopping Bag Title
+
+Item Count
+
+Wishlist Shortcut
+
+Search
+
+Beautiful scroll animation.
+
+====================================================
+
+SHOPPING BAG HEADER
+
+====================================================
+
+Premium shopping summary card.
+
+Show
+
+Total Items
+
+Estimated Total
+
+Estimated Savings
+
+Reward Points (Future Ready)
+
+Animated counters.
+
+====================================================
+
+CART ITEMS
+
+====================================================
+
+Every product should appear inside a premium card.
+
+Each card includes
+
+Large Product Image
+
+Product Name
+
+Category
+
+Selected Size
+
+Selected Color
+
+Quantity Selector
+
+Current Price
+
+Original Price
+
+Discount %
+
+Estimated Delivery
+
+Availability Status
+
+Seller
+
+Wishlist Button
+
+Delete Button
+
+Move To Wishlist
+
+Save For Later
+
+Smooth swipe gestures.
+
+====================================================
+
+SWIPE ACTIONS
+
+====================================================
+
+Swipe Left
+
+Delete
+
+Move to Wishlist
+
+Save for Later
+
+Swipe Right
+
+Increase Quantity
+
+Quick Buy
+
+Everything beautifully animated.
+
+====================================================
+
+QUANTITY EXPERIENCE
+
+====================================================
+
+Premium stepper.
+
+Animated increase/decrease.
+
+Stock validation placeholder.
+
+====================================================
+
+PRICE SUMMARY
+
+====================================================
+
+Beautiful floating summary card.
+
+Subtotal
+
+Discount
+
+Coupon Savings
+
+Delivery Charges
+
+GST
+
+Packaging
+
+Grand Total
+
+Animated calculations.
+
+====================================================
+
+COUPONS
+
+====================================================
+
+Premium coupon cards.
+
+Apply Coupon
+
+Available Coupons
+
+Recommended Coupons
+
+Success animation.
+
+====================================================
+
+DELIVERY INFORMATION
+
+====================================================
+
+Delivery Address Card
+
+Estimated Delivery
+
+Express Delivery
+
+Free Shipping Progress
+
+Delivery Timeline
+
+Animated icons.
+
+====================================================
+
+FREE SHIPPING PROGRESS
+
+====================================================
+
+Example
+
+₹350 away from FREE Shipping
+
+Beautiful animated progress bar.
+
+Celebrate when unlocked.
+
+====================================================
+
+SAVE FOR LATER
+
+====================================================
+
+Dedicated section.
+
+Beautiful horizontal cards.
+
+Move back to cart.
+
+Remove.
+
+====================================================
+
+YOU MAY ALSO LIKE
+
+====================================================
+
+Recommended products.
+
+Horizontal carousel.
+
+AI recommendations placeholder.
+
+Frequently Bought Together.
+
+Complete The Look.
+
+Trending Products.
+
+====================================================
+
+SHOPPING BENEFITS
+
+====================================================
+
+Beautiful cards.
+
+Free Returns
+
+Secure Payment
+
+Premium Packaging
+
+Quality Guarantee
+
+Fast Delivery
+
+Animated icons.
+
+====================================================
+
+ORDER SUMMARY
+
+====================================================
+
+Expandable summary.
+
+Item Count
+
+Total MRP
+
+Discount
+
+Coupon
+
+GST
+
+Shipping
+
+Final Amount
+
+====================================================
+
+CHECKOUT CTA
+
+====================================================
+
+Sticky floating bottom bar.
+
+Grand Total
+
+Checkout Button
+
+Animated elevation.
+
+Gradient button.
+
+Premium interaction.
+
+====================================================
+
+EMPTY CART
+
+====================================================
+
+Luxury illustration.
+
+Friendly message.
+
+Continue Shopping button.
+
+Recommended collections.
+
+Trending products.
+
+====================================================
+
+ANIMATIONS
+
+====================================================
+
+Swipe animations
+
+Quantity animations
+
+Delete animation
+
+Card transitions
+
+Coupon success
+
+Floating CTA
+
+Smooth scrolling
+
+Micro interactions
+
+Skeleton loading
+
+Framer Motion
+
+====================================================
+
+COMPONENTS
+
+====================================================
+
+Cart Item Card
+
+Quantity Stepper
+
+Coupon Card
+
+Summary Card
+
+Delivery Card
+
+Benefit Card
+
+Recommendation Carousel
+
+Sticky Checkout Bar
+
+Empty Cart
+
+Loading Skeleton
+
+Everything reusable.
+
+====================================================
+
+PERFORMANCE
+
+====================================================
+
+Lazy loading
+
+Optimized rendering
+
+Smooth scrolling
+
+Reusable architecture
+
+====================================================
+
+RESPONSIVE
+
+====================================================
+
+Perfect on
+
+Android
+
+iPhone
+
+Small Devices
+
+Large Devices
+
+Safe Areas
+
+Dynamic Island
+
+====================================================
+
+IMPORTANT
+
+====================================================
+
+Do NOT create a simple shopping cart.
+
+Create a premium luxury shopping bag experience.
+
+Every interaction should feel satisfying.
+
+Focus on increasing user confidence before checkout.
+
+Think like a Senior Mobile UX Designer.
+
+If you have better ideas than the above requirements, implement them automatically.
+
+The final Shopping Cart should feel production-ready, elegant, and worthy of a premium fashion brand.
