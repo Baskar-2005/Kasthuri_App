@@ -1,0 +1,579 @@
+Build the complete Product Details experience for the Kasthuribai Ready Mades mobile application.
+
+IMPORTANT
+
+This is ONLY Phase 5.
+
+Do NOT implement payment.
+
+Do NOT implement checkout.
+
+Do NOT implement authentication.
+
+Do NOT implement backend.
+
+Do NOT implement APIs.
+
+Use realistic mock product data.
+
+Use ONLY the Poppins font throughout the application.
+
+The UI must match the premium Kasthuribai branding.
+
+Think like a Senior Product Designer building the world's best fashion shopping experience.
+
+If you have better UX ideas than my requirements, implement them automatically.
+
+====================================================
+
+DESIGN GOAL
+
+====================================================
+
+I DO NOT want a basic product page.
+
+I want users to instantly fall in love with the product.
+
+The page should feel luxurious, immersive and interactive.
+
+Take inspiration from
+
+Apple Store
+
+Nike
+
+Zara
+
+AJIO Luxe
+
+Myntra
+
+Louis Vuitton
+
+Gucci
+
+Do NOT copy them.
+
+Create a unique premium experience.
+
+====================================================
+
+ENTRY ANIMATION
+
+====================================================
+
+Product should open using
+
+Shared Element Transition
+
+Image Expansion
+
+Smooth Fade
+
+Luxury Animation
+
+Everything should feel seamless.
+
+====================================================
+
+TOP BAR
+
+====================================================
+
+Transparent while at top.
+
+Changes to solid while scrolling.
+
+Contains
+
+Back
+
+Wishlist
+
+Share
+
+Cart
+
+More Options
+
+Animated blur.
+
+====================================================
+
+PRODUCT IMAGE EXPERIENCE
+
+====================================================
+
+This is the most important section.
+
+Large full-width premium gallery.
+
+Support
+
+Swipe Images
+
+Pinch to Zoom
+
+Double Tap Zoom
+
+360° View Placeholder
+
+Full Screen Gallery
+
+Video Placeholder
+
+Fabric Close-up Images
+
+Lifestyle Images
+
+Model Images
+
+Zoom with smooth animation.
+
+Image indicators should look premium.
+
+====================================================
+
+PRODUCT INFORMATION
+
+====================================================
+
+Product Name
+
+Category
+
+Brand
+
+Verified Badge
+
+Trending Badge
+
+Premium Collection Badge
+
+Best Seller Badge
+
+Rating
+
+Review Count
+
+Sold Count
+
+Popularity Indicator
+
+Luxury typography.
+
+====================================================
+
+PRICE SECTION
+
+====================================================
+
+MRP
+
+Discounted Price
+
+Discount %
+
+Savings Amount
+
+GST Info
+
+EMI Placeholder
+
+Limited Time Offer
+
+Animated offer badge.
+
+====================================================
+
+STOCK STATUS
+
+====================================================
+
+In Stock
+
+Only X Left
+
+Fast Selling
+
+Limited Stock
+
+Pre Order
+
+Animated status indicators.
+
+====================================================
+
+SIZE EXPERIENCE
+
+====================================================
+
+Premium size selector.
+
+Beautiful rounded buttons.
+
+Selected animation.
+
+Size Guide Button.
+
+"Find My Size" placeholder.
+
+Size recommendation placeholder.
+
+====================================================
+
+COLOR EXPERIENCE
+
+====================================================
+
+Beautiful color swatches.
+
+Animated selection.
+
+Large preview update.
+
+Color name.
+
+====================================================
+
+FABRIC DETAILS
+
+====================================================
+
+Beautiful information cards.
+
+Fabric
+
+Pattern
+
+Sleeves
+
+Neck
+
+Fit
+
+Occasion
+
+Wash Care
+
+Material
+
+Weight
+
+Origin
+
+====================================================
+
+DESCRIPTION
+
+====================================================
+
+Expandable section.
+
+Luxury typography.
+
+Beautiful spacing.
+
+Read More.
+
+====================================================
+
+KEY FEATURES
+
+====================================================
+
+Premium feature cards.
+
+Soft Fabric
+
+Premium Stitching
+
+Machine Washable
+
+Lightweight
+
+Comfort Fit
+
+Festival Ready
+
+Wedding Collection
+
+Animated icons.
+
+====================================================
+
+DELIVERY SECTION
+
+====================================================
+
+Check Delivery PIN Code
+
+Estimated Delivery
+
+Express Delivery
+
+Free Shipping
+
+Easy Return
+
+Exchange Available
+
+Animated delivery card.
+
+====================================================
+
+OFFERS
+
+====================================================
+
+Coupon Cards.
+
+Bank Offers.
+
+Festival Offers.
+
+Combo Offers.
+
+Animated cards.
+
+====================================================
+
+ACTION BAR
+
+====================================================
+
+Sticky bottom action bar.
+
+Wishlist
+
+Add to Cart
+
+Buy Now
+
+Beautiful animations.
+
+Floating appearance.
+
+====================================================
+
+SHOP THE LOOK
+
+====================================================
+
+Show products matching this outfit.
+
+Beautiful horizontal carousel.
+
+====================================================
+
+SIMILAR PRODUCTS
+
+====================================================
+
+Premium horizontal carousel.
+
+Luxury cards.
+
+Smooth scrolling.
+
+====================================================
+
+YOU MAY ALSO LIKE
+
+====================================================
+
+AI recommendation layout.
+
+Premium cards.
+
+====================================================
+
+RECENTLY VIEWED
+
+====================================================
+
+Animated carousel.
+
+====================================================
+
+REVIEWS
+
+====================================================
+
+Premium review section.
+
+Overall Rating
+
+Rating Distribution
+
+Verified Purchase Badge
+
+Customer Images
+
+Customer Videos Placeholder
+
+Review Filters
+
+Helpful Button
+
+Like Review
+
+Report Review
+
+Sort Reviews
+
+Beautiful cards.
+
+====================================================
+
+Q & A
+
+====================================================
+
+Questions
+
+Answers
+
+Ask Question Button
+
+Expandable UI.
+
+====================================================
+
+STORE INFORMATION
+
+====================================================
+
+Sold By
+
+Kasthuribai Ready Mades
+
+Store Rating
+
+Years in Business
+
+Customer Satisfaction
+
+====================================================
+
+TRUST SECTION
+
+====================================================
+
+100% Genuine Product
+
+Secure Payment
+
+Easy Returns
+
+Quality Checked
+
+Premium Packaging
+
+Animated trust badges.
+
+====================================================
+
+MICRO INTERACTIONS
+
+====================================================
+
+Wishlist Animation
+
+Add To Cart Animation
+
+Image Zoom
+
+Button Ripple
+
+Favorite Burst Animation
+
+Floating Cart Animation
+
+Smooth scrolling.
+
+====================================================
+
+LOADING
+
+====================================================
+
+Luxury skeleton screens.
+
+Image placeholders.
+
+Smooth fade-in.
+
+====================================================
+
+EMPTY STATES
+
+====================================================
+
+Beautiful illustrations.
+
+Helpful suggestions.
+
+====================================================
+
+COMPONENTS
+
+====================================================
+
+Image Gallery
+
+Price Card
+
+Size Selector
+
+Color Selector
+
+Offer Card
+
+Feature Card
+
+Delivery Card
+
+Review Card
+
+Rating Chart
+
+Q&A Card
+
+Action Bar
+
+Everything reusable.
+
+====================================================
+
+PERFORMANCE
+
+====================================================
+
+Lazy loading
+
+Image caching
+
+Smooth scrolling
+
+Optimized rendering
+
+Reusable architecture
+
+====================================================
+
+IMPORTANT
+
+====================================================
+
+Do NOT create a generic ecommerce product page.
+
+Reimagine the luxury shopping experience specifically for mobile.
+
+Use premium animations, smooth transitions and elegant layouts.
+
+Every interaction should feel polished.
+
+If you think a better UX exists, implement it automatically.
+
+The final Product Details screen should be App Store quality and significantly better than most fashion shopping apps.
