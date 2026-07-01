@@ -1,0 +1,533 @@
+Build the complete Search & Smart Filtering experience for the Kasthuribai Ready Mades mobile application.
+
+IMPORTANT
+
+This is ONLY Phase 6.
+
+Do NOT implement payment.
+
+Do NOT implement checkout.
+
+Do NOT implement authentication.
+
+Do NOT implement backend.
+
+Do NOT implement APIs.
+
+Use realistic mock data.
+
+Use ONLY the Poppins font throughout the application.
+
+The design language must match the premium Kasthuribai mobile app.
+
+Think like a Senior Product Designer creating the world's best fashion search experience.
+
+If you have better UX ideas than my requirements, implement them automatically.
+
+========================================================
+
+DESIGN GOAL
+
+========================================================
+
+I DO NOT want a basic search page.
+
+I want customers to enjoy searching.
+
+Searching should feel intelligent, premium, beautiful and effortless.
+
+Take inspiration from
+
+Apple Store
+
+Pinterest
+
+Myntra
+
+AJIO
+
+Nike
+
+Google Search
+
+Do NOT copy them.
+
+Create a unique premium experience.
+
+========================================================
+
+SEARCH ENTRY
+
+========================================================
+
+Customer can enter search from
+
+Home
+
+Collections
+
+Product Details
+
+Wishlist
+
+Cart
+
+Every screen should have smooth transition into Search.
+
+========================================================
+
+SEARCH BAR
+
+========================================================
+
+Premium floating search bar.
+
+Rounded.
+
+Elegant shadow.
+
+Animated focus.
+
+Contains
+
+Search Icon
+
+Voice Search Placeholder
+
+Camera Search Placeholder (Future)
+
+Clear Button
+
+Beautiful cursor animation.
+
+========================================================
+
+WHEN SEARCH IS EMPTY
+
+========================================================
+
+Show
+
+Recent Searches
+
+Trending Searches
+
+Popular Categories
+
+Recently Viewed Products
+
+Continue Shopping
+
+Festival Collections
+
+New Arrivals
+
+Top Brands
+
+Editor's Picks
+
+Beautiful modern cards.
+
+========================================================
+
+LIVE SEARCH
+
+========================================================
+
+As user types,
+
+show results instantly.
+
+Animate smoothly.
+
+Suggestions should include
+
+Products
+
+Categories
+
+Collections
+
+Brands
+
+Colors
+
+Occasions
+
+Fabric Types
+
+========================================================
+
+SEARCH SUGGESTIONS
+
+========================================================
+
+Examples
+
+Silk Saree
+
+Cotton Kurti
+
+Men Shirt
+
+Kids Frock
+
+Silver Anklet
+
+Festival Wear
+
+Wedding Collection
+
+Casual Wear
+
+Office Wear
+
+Trending Products
+
+Suggestions should animate beautifully.
+
+========================================================
+
+TRENDING SEARCHES
+
+========================================================
+
+Beautiful chips.
+
+Animated.
+
+Horizontal scrolling.
+
+========================================================
+
+RECENT SEARCHES
+
+========================================================
+
+Beautiful history cards.
+
+Swipe to delete.
+
+Clear all.
+
+Animated removal.
+
+========================================================
+
+VOICE SEARCH
+
+========================================================
+
+UI Placeholder only.
+
+Beautiful microphone animation.
+
+Modern listening screen.
+
+========================================================
+
+CAMERA SEARCH
+
+========================================================
+
+UI Placeholder only.
+
+Beautiful camera interface.
+
+Future ready.
+
+========================================================
+
+FILTER EXPERIENCE
+
+========================================================
+
+Create the best filter experience.
+
+NOT old sidebars.
+
+Use a Premium Bottom Sheet.
+
+Smooth animation.
+
+Floating Apply Button.
+
+Floating Reset Button.
+
+Sticky header.
+
+========================================================
+
+FILTERS
+
+========================================================
+
+Price Range
+
+Category
+
+Sub Category
+
+Gender
+
+Age
+
+Fabric
+
+Material
+
+Pattern
+
+Fit
+
+Occasion
+
+Festival
+
+Wedding
+
+Casual
+
+Office
+
+Color
+
+Sleeve Type
+
+Neck Style
+
+Discount
+
+Rating
+
+Availability
+
+Trending
+
+New Arrival
+
+Best Seller
+
+Premium Collection
+
+Limited Edition
+
+Fast Delivery
+
+========================================================
+
+FILTER COMPONENTS
+
+========================================================
+
+Price Slider
+
+Color Swatches
+
+Category Chips
+
+Rating Cards
+
+Size Chips
+
+Toggle Buttons
+
+Checkbox Cards
+
+Animated Selection
+
+========================================================
+
+SORT
+
+========================================================
+
+Bottom Sheet.
+
+Newest
+
+Popularity
+
+Price Low to High
+
+Price High to Low
+
+Customer Rating
+
+Best Selling
+
+Trending
+
+Recommended
+
+Recently Added
+
+========================================================
+
+SEARCH RESULTS
+
+========================================================
+
+Premium product grid.
+
+Beautiful cards.
+
+Image
+
+Price
+
+Rating
+
+Wishlist
+
+Quick View
+
+Discount Badge
+
+Premium Badge
+
+Animated appearance.
+
+========================================================
+
+NO RESULTS
+
+========================================================
+
+Elegant illustration.
+
+Suggested Products.
+
+Trending Searches.
+
+Related Categories.
+
+Recommended Collections.
+
+Beautiful empty state.
+
+========================================================
+
+SMART RECOMMENDATIONS
+
+========================================================
+
+Below search results show
+
+Customers also searched
+
+You may like
+
+Similar Products
+
+Trending Today
+
+Frequently Bought Together
+
+Complete The Look
+
+Recommended Collections
+
+========================================================
+
+SEARCH ANIMATIONS
+
+========================================================
+
+Search expansion.
+
+Suggestion fade.
+
+Card transitions.
+
+Chip animations.
+
+Filter transitions.
+
+Smooth scrolling.
+
+========================================================
+
+PERFORMANCE
+
+========================================================
+
+Instant search.
+
+Debounced search.
+
+Lazy loading.
+
+Smooth scrolling.
+
+Reusable architecture.
+
+========================================================
+
+COMPONENTS
+
+========================================================
+
+Search Bar
+
+Suggestion Card
+
+History Card
+
+Trending Chips
+
+Filter Bottom Sheet
+
+Sort Bottom Sheet
+
+Price Slider
+
+Color Picker
+
+Search Result Card
+
+Empty State
+
+Loading Skeleton
+
+Everything reusable.
+
+========================================================
+
+RESPONSIVE
+
+========================================================
+
+Perfect on
+
+Android
+
+iPhone
+
+Tablets
+
+Dynamic Island
+
+Safe Areas
+
+========================================================
+
+IMPORTANT
+
+========================================================
+
+Do NOT create a basic search page.
+
+Create a premium fashion discovery experience.
+
+Use beautiful animations.
+
+Elegant layouts.
+
+Modern UI.
+
+Every interaction should feel smooth.
+
+If you think a better UX exists, implement it automatically.
+
+The final Search experience should feel better than most premium fashion shopping apps.
