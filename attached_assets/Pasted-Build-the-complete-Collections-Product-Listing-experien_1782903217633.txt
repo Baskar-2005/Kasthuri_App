@@ -1,0 +1,575 @@
+Build the complete Collections & Product Listing experience for the Kasthuribai Ready Mades mobile application.
+
+IMPORTANT
+
+This is ONLY Phase 4.
+
+Do NOT implement payment.
+
+Do NOT implement checkout.
+
+Do NOT implement authentication.
+
+Do NOT implement backend.
+
+Do NOT implement APIs.
+
+Use realistic mock data.
+
+Use ONLY the Poppins font throughout the application.
+
+The design must match the premium Kasthuribai branding.
+
+Think like a Senior Product Designer building a luxury fashion shopping application.
+
+If you have better ideas than my requirements, implement them.
+
+====================================================
+
+DESIGN GOAL
+
+====================================================
+
+I DO NOT want a normal ecommerce product listing.
+
+I want a luxurious fashion browsing experience.
+
+Users should enjoy exploring collections.
+
+Take inspiration from
+
+Apple Store
+
+Nike
+
+Zara
+
+AJIO Luxe
+
+Myntra
+
+H&M
+
+Pinterest
+
+Do NOT copy them.
+
+Create a unique premium browsing experience.
+
+====================================================
+
+COLLECTION ENTRY
+
+====================================================
+
+Collections should open from
+
+Home Categories
+
+Search
+
+Offers
+
+Hero Banner
+
+Recommendations
+
+Wishlist
+
+Each collection should have
+
+Beautiful transition animation
+
+Shared element animation
+
+Hero image transition
+
+====================================================
+
+TOP HEADER
+
+====================================================
+
+Sticky premium app bar.
+
+Contains
+
+Back Button
+
+Collection Title
+
+Search
+
+Wishlist
+
+Cart
+
+Animated elevation while scrolling.
+
+====================================================
+
+COLLECTION HERO
+
+====================================================
+
+Large premium hero image.
+
+Category name.
+
+Elegant subtitle.
+
+Products count.
+
+Animated gradient overlay.
+
+Luxury typography.
+
+Smooth parallax while scrolling.
+
+====================================================
+
+CATEGORY TABS
+
+====================================================
+
+Beautiful horizontal chips.
+
+All
+
+Men
+
+Women
+
+Kids
+
+Silver
+
+Festival
+
+Traditional
+
+New Arrival
+
+Trending
+
+Offers
+
+Animated chip selection.
+
+Smooth scrolling.
+
+====================================================
+
+FILTER EXPERIENCE
+
+====================================================
+
+DO NOT create old-style filters.
+
+Create a premium filter experience.
+
+Floating Filter Button.
+
+Bottom Sheet Filter Panel.
+
+Beautiful animations.
+
+Sticky Apply Button.
+
+Sticky Clear Button.
+
+====================================================
+
+FILTERS
+
+====================================================
+
+Price
+
+Category
+
+Size
+
+Color
+
+Material
+
+Brand
+
+Occasion
+
+Fabric
+
+Pattern
+
+Fit
+
+Sleeve Type
+
+Neck Style
+
+Availability
+
+Discount
+
+Popularity
+
+Customer Rating
+
+Newest
+
+Best Selling
+
+Featured
+
+Festival Collection
+
+Wedding Collection
+
+Office Wear
+
+Casual Wear
+
+Party Wear
+
+Traditional
+
+====================================================
+
+SORT
+
+====================================================
+
+Premium Bottom Sheet.
+
+Newest
+
+Popularity
+
+Price Low to High
+
+Price High to Low
+
+Highest Rated
+
+Best Selling
+
+Featured
+
+Trending
+
+Discount
+
+Newest Arrivals
+
+====================================================
+
+PRODUCT GRID
+
+====================================================
+
+This is the most important section.
+
+Design world-class product cards.
+
+Each card should include
+
+Large product image
+
+Hover animation
+
+Wishlist
+
+Quick View
+
+Discount Badge
+
+Trending Badge
+
+Limited Stock Badge
+
+Premium Label
+
+Verified Label
+
+Product Name
+
+Short Description
+
+Rating
+
+Review Count
+
+MRP
+
+Discounted Price
+
+Discount %
+
+Available Sizes
+
+Available Colors
+
+Delivery Badge
+
+Add to Cart
+
+Buy Now
+
+Elegant shadows
+
+Rounded corners
+
+Beautiful spacing
+
+Smooth animation
+
+Cards should feel luxurious.
+
+====================================================
+
+VIEW MODES
+
+====================================================
+
+Support
+
+2-column Grid
+
+1-column Large Cards
+
+Pinterest Style
+
+User can switch views.
+
+====================================================
+
+PRODUCT INTERACTIONS
+
+====================================================
+
+Tap Image
+
+Image Gallery
+
+Double Tap
+
+Wishlist
+
+Long Press
+
+Quick Preview
+
+Swipe
+
+Next Product
+
+Smooth animations.
+
+====================================================
+
+QUICK PREVIEW
+
+====================================================
+
+Beautiful Bottom Sheet.
+
+Large Images
+
+Price
+
+Rating
+
+Sizes
+
+Colors
+
+Short Description
+
+Wishlist
+
+Add to Cart
+
+Buy Now
+
+View Details
+
+====================================================
+
+PROMOTIONAL BLOCKS
+
+====================================================
+
+Between product rows
+
+Insert premium promotional cards.
+
+Festival Offer
+
+New Collection
+
+Flat Discount
+
+Trending Collection
+
+Luxury Banner
+
+Beautiful transitions.
+
+====================================================
+
+LOAD MORE
+
+====================================================
+
+Infinite scrolling.
+
+Skeleton loading.
+
+Smooth appearance.
+
+====================================================
+
+EMPTY STATE
+
+====================================================
+
+Beautiful illustrations.
+
+Helpful suggestions.
+
+Recommended categories.
+
+====================================================
+
+NO RESULTS
+
+====================================================
+
+Elegant empty state.
+
+Recommended products.
+
+Popular categories.
+
+Trending collections.
+
+====================================================
+
+ANIMATIONS
+
+====================================================
+
+Framer Motion.
+
+Card entrance.
+
+Fade.
+
+Scale.
+
+Slide.
+
+Shared element transitions.
+
+Image zoom.
+
+Micro interactions.
+
+Smooth scrolling.
+
+Floating buttons.
+
+====================================================
+
+PERFORMANCE
+
+====================================================
+
+Lazy image loading.
+
+Virtualized list.
+
+Optimized scrolling.
+
+Fast rendering.
+
+Reusable components.
+
+====================================================
+
+COMPONENTS
+
+====================================================
+
+Collection Hero
+
+Category Chips
+
+Filter Bottom Sheet
+
+Sort Bottom Sheet
+
+Product Card
+
+Product Grid
+
+Product List
+
+Quick Preview
+
+Promotion Banner
+
+Skeleton Cards
+
+Empty State
+
+No Results
+
+Floating Filter Button
+
+Sticky Header
+
+Everything reusable.
+
+====================================================
+
+RESPONSIVE
+
+====================================================
+
+Perfect on
+
+Android
+
+iPhone
+
+Small Devices
+
+Large Devices
+
+Safe Areas
+
+Dynamic Island
+
+====================================================
+
+IMPORTANT
+
+====================================================
+
+Do NOT create a basic product listing page.
+
+Do NOT copy the website.
+
+Reimagine the shopping experience specifically for mobile.
+
+The browsing experience should feel premium, luxurious, and addictive.
+
+Think like a Senior UX Designer at Apple or Nike.
+
+If you believe a better interaction or layout exists, implement it automatically.
+
+Prioritize user experience, animations, smoothness, and scalability.
+
+The final result should be production-ready and App Store quality.
