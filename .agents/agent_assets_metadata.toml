@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "XBgi5xAyTPlVT3IZ7o5vU"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "kasthuribai_logo_icon"
+
+[[generated]]
+id = "wSJnRGIbdRALa96pC6LSX"
+uri = "file://artifacts/mobile/assets/images/banner1.png"
+type = "image"
+title = "saree_collection_banner"
+
+[[generated]]
+id = "b4HW_E8ZP4LIvBEw_k84J"
+uri = "file://artifacts/mobile/assets/images/banner2.png"
+type = "image"
+title = "festival_collection_banner"
+
+[[generated]]
+id = "BzCH8I4Vbzow1icSL5SsL"
+uri = "file://artifacts/mobile/assets/images/banner3.png"
+type = "image"
+title = "new_arrivals_banner"

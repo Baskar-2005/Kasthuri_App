@@ -1,0 +1,599 @@
+Create a complete premium mobile application layout for Kasthuribai Ready Mades.
+
+IMPORTANT
+
+This is ONLY Phase 1.
+
+DO NOT implement business logic.
+
+DO NOT implement API integration.
+
+DO NOT implement authentication.
+
+DO NOT implement cart logic.
+
+DO NOT implement checkout.
+
+DO NOT implement payment.
+
+DO NOT implement order management.
+
+DO NOT implement search logic.
+
+DO NOT implement backend.
+
+For this phase, focus ONLY on building the complete UI architecture, navigation system, design system, and screen layouts.
+
+I want a premium mobile shopping experience that feels comparable to Apple Store, Nike, Zara, Myntra, AJIO, and H&M.
+
+Do NOT create a generic Flutter template or React Native template.
+
+Create a world-class premium mobile UI.
+
+If you have better design ideas than my requirements, implement them.
+
+==================================================
+
+DESIGN LANGUAGE
+
+==================================================
+
+The app should feel
+
+Luxury
+
+Elegant
+
+Premium
+
+Minimal
+
+Modern
+
+Fast
+
+Smooth
+
+Highly Animated
+
+Use
+
+Soft gradients
+
+Rounded corners
+
+Floating cards
+
+Beautiful shadows
+
+Glassmorphism where appropriate
+
+Large typography
+
+Micro interactions
+
+Smooth page transitions
+
+Premium loading animations
+
+Skeleton loaders
+
+Floating buttons
+
+Modern bottom sheets
+
+Premium modals
+
+Fluid scrolling
+
+Beautiful spacing
+
+Elegant empty states
+
+Premium illustrations where needed
+
+Everything should feel handcrafted.
+
+==================================================
+
+COLOR PALETTE
+
+==================================================
+
+Use Kasthuribai branding
+
+Maroon
+
+Gold
+
+Cream
+
+Warm White
+
+Soft Beige
+
+Deep Brown
+
+Elegant Accent Colors
+
+Premium fashion feel.
+
+==================================================
+
+TYPOGRAPHY
+
+==================================================
+
+Use premium typography.
+
+Large Hero Titles
+
+Elegant Headlines
+
+Readable Body Text
+
+Consistent spacing
+
+Beautiful font hierarchy
+
+==================================================
+
+APP STRUCTURE
+
+==================================================
+
+Build the complete navigation architecture.
+
+Bottom Navigation
+
+Home
+
+Collections
+
+Wishlist
+
+My Orders
+
+Profile
+
+Floating Cart Button
+
+Sticky Navigation
+
+Animated Navigation Indicator
+
+Smooth transitions.
+
+==================================================
+
+HOME SCREEN
+
+==================================================
+
+Design only.
+
+No functionality.
+
+Include
+
+Luxury Hero Banner
+
+Animated promotional carousel
+
+Featured Categories
+
+Trending Collections
+
+New Arrivals
+
+Featured Brands
+
+Today's Offers
+
+Festival Banner
+
+Premium Collection Cards
+
+Recommended Products
+
+Recently Viewed
+
+Customer Reviews
+
+Instagram Style Gallery
+
+Store Highlights
+
+Animated Feature Cards
+
+Newsletter Banner
+
+Footer
+
+Everything beautifully arranged.
+
+==================================================
+
+COLLECTIONS
+
+==================================================
+
+Build layouts for
+
+Men
+
+Women
+
+Kids
+
+Silver
+
+Festival
+
+Each category should have
+
+Premium banner
+
+Filter button
+
+Sort button
+
+Grid layout
+
+List layout
+
+Sticky filter bar
+
+Beautiful product cards
+
+Category chips
+
+==================================================
+
+PRODUCT DETAILS
+
+==================================================
+
+Design a premium product details page.
+
+Large image gallery
+
+Swipe images
+
+Image zoom
+
+Color selector
+
+Size selector
+
+Quantity selector
+
+Description
+
+Fabric Details
+
+Ratings
+
+Reviews
+
+Related Products
+
+Similar Products
+
+Floating Add to Cart
+
+Buy Now
+
+Share
+
+Wishlist
+
+Animated transitions.
+
+==================================================
+
+SEARCH
+
+==================================================
+
+Beautiful search screen.
+
+Recent Searches
+
+Trending Searches
+
+Suggested Products
+
+Popular Categories
+
+Voice Search placeholder
+
+Filter Button
+
+==================================================
+
+WISHLIST
+
+==================================================
+
+Beautiful empty state.
+
+Saved products.
+
+Grid layout.
+
+Premium cards.
+
+==================================================
+
+MY ORDERS
+
+==================================================
+
+Premium dashboard layout.
+
+Order cards.
+
+Animated timeline placeholder.
+
+Shipment card.
+
+Invoice button.
+
+Return button.
+
+Refund button.
+
+Buy Again.
+
+Everything only UI.
+
+==================================================
+
+PROFILE
+
+==================================================
+
+Customer profile.
+
+Profile Picture
+
+Addresses
+
+Saved Cards
+
+Rewards
+
+Coupons
+
+Settings
+
+Help
+
+Logout
+
+Beautiful cards.
+
+==================================================
+
+SHOPPING CART
+
+==================================================
+
+Premium cart layout.
+
+Address section.
+
+Coupon section.
+
+Price summary.
+
+Suggested Products.
+
+Checkout Button.
+
+==================================================
+
+CHECKOUT
+
+==================================================
+
+Beautiful checkout flow.
+
+Address Card
+
+Payment Section
+
+Order Summary
+
+Delivery Slot
+
+Promo Code
+
+Total
+
+Pay Button
+
+==================================================
+
+NOTIFICATIONS
+
+==================================================
+
+Modern notification center.
+
+Grouped cards.
+
+Icons.
+
+Timeline.
+
+==================================================
+
+SETTINGS
+
+==================================================
+
+Theme
+
+Language
+
+Privacy
+
+Help
+
+Support
+
+About
+
+==================================================
+
+COMPONENT LIBRARY
+
+==================================================
+
+Build reusable components.
+
+Buttons
+
+Cards
+
+Input Fields
+
+Search Bars
+
+Chips
+
+Badges
+
+Product Cards
+
+Navigation
+
+Bottom Sheets
+
+Dialogs
+
+Loading States
+
+Skeletons
+
+Carousels
+
+Empty States
+
+Headers
+
+Footers
+
+Everything reusable.
+
+==================================================
+
+ANIMATIONS
+
+==================================================
+
+Use smooth premium animations.
+
+Page transitions
+
+Shared element transitions
+
+Card expansion
+
+Fade
+
+Scale
+
+Slide
+
+Parallax
+
+Hero animations
+
+Animated icons
+
+Smooth scrolling
+
+Micro interactions
+
+==================================================
+
+RESPONSIVE
+
+==================================================
+
+Support
+
+Android
+
+iPhone
+
+Small devices
+
+Large devices
+
+Safe Areas
+
+Notches
+
+Dynamic Island
+
+==================================================
+
+ARCHITECTURE
+
+==================================================
+
+Create a scalable folder structure.
+
+Separate
+
+Screens
+
+Components
+
+Hooks
+
+Contexts
+
+Services
+
+Assets
+
+Animations
+
+Constants
+
+Theme
+
+Types
+
+Utilities
+
+The architecture should be production-ready.
+
+==================================================
+
+IMPORTANT
+
+==================================================
+
+DO NOT build functionality.
+
+DO NOT connect APIs.
+
+DO NOT use mock backend.
+
+DO NOT implement authentication.
+
+DO NOT implement cart logic.
+
+DO NOT implement payments.
+
+Only create the complete premium app layout.
+
+Think like a Senior Mobile Product Designer.
+
+The result should look like a premium fashion shopping app that could be published on the App Store and Google Play.
